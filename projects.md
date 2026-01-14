@@ -11,7 +11,7 @@ Below are selected data analytics and visualization projects showcasing my work.
 
 ## Sales Performance Dashboard
 
-**Tools:** Tableau, Excel  
+**Tools:** 'Tableau' 'Excel'  
 **Focus:** Revenue trends and regional performance
 
 ![Sales Dashboard](assets/sales-dashboard.png)
