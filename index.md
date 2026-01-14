@@ -1,4 +1,5 @@
 ---
+layout: home
 title: Portfolio Summary
 ---
 Welcome! This portfolio showcases my work in data analysis and visualization.
