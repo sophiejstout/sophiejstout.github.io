@@ -7,6 +7,7 @@ Welcome! This portfolio showcases my work in data analysis and visualization.
 - **Sales Dashboard** – Tableau, Insights on revenue trends
 - **Customer Segmentation** – Power BI, Behavioral analysis
 - **Marketing Performance** – Looker, KPI tracking
+[View my projects →](/projects)
 
 ### Tools
 Tableau · Power BI · Excel · SQL
