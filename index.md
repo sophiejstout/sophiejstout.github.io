@@ -1,11 +1,3 @@
----
-layout: home
----
-
-# Sophie Stout
-
-## Data Analytics Portfolio
-
 Welcome! This portfolio showcases my work in data analysis and visualization.
 
 ### Projects
