@@ -1,3 +1,5 @@
+layout: home
+
 Welcome! This portfolio showcases my work in data analysis and visualization.
 
 ### Projects
