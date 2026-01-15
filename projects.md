@@ -58,7 +58,7 @@ Below are selected data analytics and visualization projects showcasing my work.
 - Consider variation in geographic road speeds
 - Implement optimal routes based on location
 
-[View report](LINK_HERE)
+[View report](https://docs.google.com/presentation/d/1QVDaWzjHMK9VS4am768ZubiwtDRTYyGlJutKg8OOIjQ/edit?usp=sharing)
 
 ---
 
@@ -76,4 +76,4 @@ Below are selected data analytics and visualization projects showcasing my work.
 - A/B testing for messaging
 - Collaboration with Public Health Organizations
 
-[View report](LINK_HERE)
+[View report](https://docs.google.com/presentation/d/1ptMeWXNJbKHi-hOI9VknC_lbC_JHRtZsWh0BR2k4Dro/edit?usp=sharing)
