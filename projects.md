@@ -22,7 +22,7 @@ Below are selected data analytics and visualization projects showcasing my work.
 - The model predicts bankruptcy likelihood with over 80% certainty
 - Companies who were predicted to go bankrupt have higher current liability:equity and current liability:assets ratios
 
-[View video presentation](https://go.screenpal.com/watch/cOVorVnrJhd)
+[View video report](https://go.screenpal.com/watch/cOVorVnrJhd)
 
 ---
 
@@ -39,7 +39,7 @@ Below are selected data analytics and visualization projects showcasing my work.
 - When a follow-up appointment is scheduled, Heart Failure and COPD patient readmission rates decreased by 25% and 24.5%, respectively
 - ⅓ of COPD and Heart Failure patients are currently recommended at home health care plans
 
-[View report](LINK_HERE)
+[View report](assets/Patient Readmissions.pptx)
 
 ---
 
