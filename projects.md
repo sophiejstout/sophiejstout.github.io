@@ -15,7 +15,7 @@ Below are selected data analytics and visualization projects showcasing my work.
 
 **Focus:** Probability and Predictive Factors of Bankruptcy
 
-![Sales Dashboard](assets/data-flow.png)
+![Data Flow](assets/data-flow)
 
 **Key Insights:**
 - Long-term sustainable EPS may be associated with future bankruptcy
@@ -32,7 +32,7 @@ Below are selected data analytics and visualization projects showcasing my work.
 
 **Focus:** Analysis of Specific Factors Contributing to Readmission Rates
 
-![Customer Segmentation](assets/at-risk.png)
+![Readmission Rates by Diagnosis](assets/at-risk)
 
 **Key Insights:**
 - Readmission rates are highest among Heart Failure and COPD patients
@@ -49,7 +49,7 @@ Below are selected data analytics and visualization projects showcasing my work.
 
 **Focus:** Truck Driver Scheduling
 
-![Customer Segmentation](assets/optimal-schedule.png)
+![Optimal Schedule](assets/optimal-schedule)
 
 **Key Insight:**
 - Identified optimal truck driver schedule, abiding by all constraints
@@ -68,7 +68,7 @@ Below are selected data analytics and visualization projects showcasing my work.
 
 **Focus:** Prediction of factors contributing to flu vaccine uptake
 
-![Customer Segmentation](assets/top-contributors.png)
+![Top Contributors to Uptake](assets/top-contributors)
 
 **Key Insights:**
 - Top contributors to flu vaccine uptake were a physicians recommendation and the patient perception of risk
