@@ -39,7 +39,7 @@ Below are selected data analytics and visualization projects showcasing my work.
 - When a follow-up appointment is scheduled, Heart Failure and COPD patient readmission rates decreased by 25% and 24.5%, respectively
 - ⅓ of COPD and Heart Failure patients are currently recommended at home health care plans
 
-![View report](assets/patientreadmissions.pptx)
+[View report](https://docs.google.com/presentation/d/1e4wFmH1HYFXCDfYCw4nocpmSK3Ow_uYV1xgmyVvvJiA/edit?usp=sharing)
 
 ---
 
