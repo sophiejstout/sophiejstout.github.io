@@ -22,7 +22,7 @@ Below are selected data analytics and visualization projects showcasing my work.
 - The model predicts bankruptcy likelihood with over 80% certainty
 - Companies who were predicted to go bankrupt have higher current liability:equity and current liability:assets ratios
 
-[View interactive dashboard](LINK_HERE)
+[View video presentation](https://go.screenpal.com/watch/cOVorVnrJhd)
 
 ---
 
