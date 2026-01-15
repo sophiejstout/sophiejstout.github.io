@@ -12,6 +12,7 @@ Below are selected data analytics and visualization projects showcasing my work.
 ## Cloud-Native Data Architecture
 
 **Tools:** AWS S3, AWS Redshift, AWS Sagemaker Canvas
+
 **Focus:** Probability and Predictive Factors of Bankruptcy
 
 ![Sales Dashboard](assets/sales-dashboard.png)
@@ -28,6 +29,7 @@ Below are selected data analytics and visualization projects showcasing my work.
 ## Patient Readmissions Analysis
 
 **Tools:** Snowflake, Tableau 
+
 **Focus:** Analysis of Specific Factors Contributing to Readmission Rates
 
 ![Customer Segmentation](assets/customer-segmentation.png)
@@ -44,6 +46,7 @@ Below are selected data analytics and visualization projects showcasing my work.
 ## Python Optimization
 
 **Tools:** Python, ChatGPT, Gemini
+
 **Focus:** Truck Driver Scheduling
 
 ![Customer Segmentation](assets/customer-segmentation.png)
@@ -62,6 +65,7 @@ Below are selected data analytics and visualization projects showcasing my work.
 ## Flu Vaccine Uptake Analysis
 
 **Tools:** Python
+
 **Focus:** Prediction of factors contributing to flu vaccine uptake
 
 ![Customer Segmentation](assets/customer-segmentation.png)
