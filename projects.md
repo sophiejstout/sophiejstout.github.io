@@ -67,7 +67,6 @@ Below are selected data analytics and visualization projects showcasing my work.
 **Tools:** Python
 
 **Focus:** Prediction of factors contributing to flu vaccine uptake
-
 ![Top Contributors to Uptake](assets/top-contributors.png)
 
 **Key Insights:**
